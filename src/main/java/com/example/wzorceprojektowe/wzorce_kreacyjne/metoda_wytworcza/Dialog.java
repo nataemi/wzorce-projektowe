@@ -1,4 +1,4 @@
-package com.example.wzorceprojektowe.metoda_wytworcza;
+package com.example.wzorceprojektowe.wzorce_kreacyjne.metoda_wytworcza;
 
 //bazowy wytworca
 public abstract class Dialog {
